@@ -1,4 +1,1 @@
-# FSDfile:///C:/Users/harit/Downloads/blog1-main/blog1-main/index.html
-
-
-file:///C:/Users/harit/Downloads/blog1-main/blog1-main/index.html
+https://bachuhariteja.github.io/FSD/blog1-main/index.html
